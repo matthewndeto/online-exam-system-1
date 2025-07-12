@@ -20,7 +20,7 @@ export default function LandingPage() {
           <div className="container px-4 md:px-6">
             <div className="flex flex-col items-center space-y-4 text-center">
               <h1 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl">
-                XYZ University Online Examinations System
+                  Online Examination System
               </h1>
             </div>
           </div>
@@ -37,7 +37,7 @@ export default function LandingPage() {
                     </CardHeader>
                     <CardContent className="flex-grow">
                         <p className="text-muted-foreground">
-                            Click the login button below to proceed with logging in using your XYZ email address. On the redirected page, enter your email address and password in the designated fields.
+                            Click the login button below to proceed with logging in using your email address. On the redirected page, enter your email address and password in the designated fields.
                         </p>
                     </CardContent>
                     <CardFooter className="justify-center">
