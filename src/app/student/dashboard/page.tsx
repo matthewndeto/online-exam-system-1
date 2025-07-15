@@ -100,7 +100,7 @@ export default function StudentDashboard() {
             <Button variant="ghost" size="icon" className="text-header-foreground hover:bg-header/80">
                 <Menu className="w-5 h-5" />
             </Button>
-            <h1 className="text-xl font-semibold">Mzizi Portal</h1>
+            <h1 className="text-xl font-semibold">Student Portal</h1>
           </div>
           <div className="flex items-center gap-4">
             <Button variant="ghost" size="icon" className="text-header-foreground hover:bg-header/80">
