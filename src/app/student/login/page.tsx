@@ -31,8 +31,8 @@ export default function StudentLoginPage() {
           {/* Left Side: Logo */}
           <div className="flex justify-center items-center">
             <div className="text-center">
-              <span className="text-6xl font-bold" style={{color: '#004400'}}>UNNAMED</span>
-              <span className="text-6xl font-bold" style={{color: '#FFFF00'}}> UNIVERSITY</span>
+              <span className="text-6xl font-bold" style={{color: '#004400'}}>Online</span>
+              <span className="text-6xl font-bold" style={{color: '#FFFF00'}}> Platform</span>
               <div className="mt-8">
                   <Link href="/">
                       <Button variant="outline" className="bg-transparent text-white border-white hover:bg-white hover:text-green-800">
